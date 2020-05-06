@@ -7,7 +7,7 @@
 -
 
 #REMOTE JSON DATA (Xcode)
-For this assaignment i learned how to take remote data from an sample json fill provide by Full Sail University. The Json contains data of employees and they're past experiences and jobs.
+For this assaignment i learned how to take get data from an nested json from an sample json file provide by Full Sail University. The Json contains data of employees and they're past experiences and jobs.
 
 -
 #Main Feature
